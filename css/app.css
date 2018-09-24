@@ -1,0 +1,22 @@
+a  {
+    cursor: pointer;
+}
+img {
+    cursor: pointer;
+}
+ul {
+    width : 300px;
+    margin-left : auto;
+    margin-right : auto;
+}
+.c {
+    text-align: center;
+}
+td {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+img.arrowImg {
+    padding-right: 30px;
+    padding-left: 30px;
+}
